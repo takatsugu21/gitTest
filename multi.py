@@ -5,4 +5,4 @@ print(answer)
 answer = 6 / 2
 print(answer)
 
-
+print("hoge")
