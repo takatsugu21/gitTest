@@ -8,5 +8,3 @@ print(answer)
 print("hoge")
 
 print("hoge2")
-
-print("hoge3")
